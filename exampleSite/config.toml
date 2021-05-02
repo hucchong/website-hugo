@@ -1,4 +1,4 @@
-baseURL = "https://xlab-first-test.netlify.com"
+baseURL = "https://xlab-first-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
