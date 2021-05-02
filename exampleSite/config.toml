@@ -1,4 +1,4 @@
-baseURL = "http://xlab-first-test.com"
+baseURL = "https://xlab-first-test.com"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
